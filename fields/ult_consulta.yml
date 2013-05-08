@@ -1,0 +1,8 @@
+label: Ult.Consulta
+name: ult_consulta
+type: date
+options: 
+  widget: 
+    id: datepicker
+  width: 3
+  showLabel: true
