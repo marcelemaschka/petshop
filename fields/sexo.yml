@@ -4,5 +4,5 @@ type: enum
 options: 
   width: "1"
   showLabel: true
-  values: "Masculino: M\nFeminino: F"
+  values: "Masculino\nFeminino"
   group: Dados do Pet
