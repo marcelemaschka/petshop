@@ -8,3 +8,4 @@ options:
   widget: 
     id: textarea
   showLabel: true
+  group: Dados do Pet

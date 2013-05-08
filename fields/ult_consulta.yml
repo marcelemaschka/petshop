@@ -6,3 +6,4 @@ options:
     id: datepicker
   width: 3
   showLabel: true
+  group: Dados do Pet
