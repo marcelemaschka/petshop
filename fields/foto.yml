@@ -9,3 +9,4 @@ options:
     id: textarea
   showLabel: true
   group: Dados do Pet
+  optional: true

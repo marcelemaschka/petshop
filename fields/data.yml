@@ -7,3 +7,4 @@ options:
   width: 3
   showLabel: true
   group: Acompanhamento de Peso
+  optional: true
