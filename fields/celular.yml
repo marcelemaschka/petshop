@@ -1,0 +1,7 @@
+label: Celular
+name: celular
+type: number
+options: 
+  width: 3
+  showLabel: true
+  group: contato

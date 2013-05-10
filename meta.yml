@@ -1,0 +1,22 @@
+type: "crud-v1"
+entityName: Cliente Pet
+entityNamePlural: Clientes Pet
+description: Cadastro de Clientes Pet
+name: clientes_pet
+readMenu: Visualizar//Clientes
+createMenu: Cadastrar//Clientes
+fields: 
+  - nome
+  - cpf
+  - rg
+  - logadouro
+  - numero
+  - complemento
+  - bairro
+  - cidade
+  - estado
+  - cep
+  - fone
+  - celular
+  - e_mail
+  - cliente_desde

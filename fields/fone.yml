@@ -1,0 +1,7 @@
+label: Fone
+name: fone
+type: number
+options: 
+  width: 3
+  showLabel: true
+  group: contato
