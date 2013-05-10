@@ -1,7 +1,7 @@
 type: "crud-v1"
 entityName: Cliente Pet
 entityNamePlural: Clientes Pet
-description: Cadastro de Clientes Pet
+description: Cadastro de Clientes
 name: clientes_pet
 readMenu: Visualizar//Clientes
 createMenu: Cadastrar//Clientes
