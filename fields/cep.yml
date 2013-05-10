@@ -4,3 +4,4 @@ type: number
 options: 
   width: 3
   showLabel: true
+  group: Endereço
