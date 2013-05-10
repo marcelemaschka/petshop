@@ -1,5 +1,5 @@
-label: Nome
-name: nome
+label: Nome do Animal
+name: nome_do_animal
 type: string
 options: 
   width: 3

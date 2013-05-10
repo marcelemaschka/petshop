@@ -8,7 +8,7 @@ createMenu: Cadastrar//Pets
 fields: 
   - dono
   - contato
-  - nome
+  - nome_do_animal
   - sexo
   - nascimento
   - raca

@@ -1,7 +1,8 @@
 label: Contato
 name: contato
-type: number
+type: reference
 options: 
   width: 3
   showLabel: true
-  group: Dono
+  module: clientes_pet
+  display: fone

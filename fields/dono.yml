@@ -1,11 +1,8 @@
 label: Dono
 name: dono
-type: string
+type: reference
 options: 
-  width: "9"
-  minlength: 2
-  maxlength: 50
-  widget: 
-    id: textinput
+  width: 3
   showLabel: true
-  group: Dono
+  module: clientes_pet
+  display: nome
