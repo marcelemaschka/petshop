@@ -2,7 +2,7 @@ label: Dono
 name: dono
 type: reference
 options: 
-  width: 3
+  width: "5"
   showLabel: true
   module: clientes_pet
   display: nome
