@@ -2,5 +2,5 @@ label: RG
 name: rg
 type: number
 options: 
-  width: 3
+  width: "2"
   showLabel: true

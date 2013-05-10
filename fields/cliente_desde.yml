@@ -2,7 +2,7 @@ label: Cliente desde
 name: cliente_desde
 type: string
 options: 
-  width: "1"
+  width: "2"
   minlength: 2
   maxlength: 50
   widget: 
