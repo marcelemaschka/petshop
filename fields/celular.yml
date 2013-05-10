@@ -9,3 +9,4 @@ options:
   width: 3
   showLabel: true
   mask: "(99) 9999-9999"
+  group: Contato
