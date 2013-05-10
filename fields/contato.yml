@@ -2,7 +2,7 @@ label: Contato
 name: contato
 type: reference
 options: 
-  width: 3
+  width: "4"
   showLabel: true
   module: clientes_pet
   display: fone
