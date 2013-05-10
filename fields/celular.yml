@@ -1,7 +1,11 @@
 label: Celular
 name: celular
-type: number
+type: string
 options: 
+  minlength: 2
+  maxlength: 50
+  widget: 
+    id: textinput
   width: 3
   showLabel: true
-  group: Contato
+  mask: "(99) 9999-9999"

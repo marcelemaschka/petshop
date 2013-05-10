@@ -16,6 +16,7 @@ fields:
   - bairro
   - cidade
   - estado
+  - pais
   - cep
   - fone
   - celular

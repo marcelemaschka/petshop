@@ -2,6 +2,6 @@ label: Número
 name: numero
 type: number
 options: 
-  width: 3
+  width: "1"
   showLabel: true
   group: Endereço

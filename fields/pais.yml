@@ -1,11 +1,10 @@
-label: Complemento
-name: complemento
+label: País
+name: pais
 type: string
 options: 
-  width: "3"
+  width: 3
   minlength: 2
   maxlength: 50
   widget: 
     id: textinput
   showLabel: true
-  group: Endereço
