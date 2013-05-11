@@ -1,0 +1,9 @@
+type: "crud-v1"
+entityName: Tipo de Produto
+entityNamePlural: Tipo de Produtos
+description: Tipo de Produtos
+name: tipo_de_produtos
+readMenu: Tipo de Produtos//Visualizar
+createMenu: Tipo de Produtos//Cadastrar
+fields: 
+  - descricao
