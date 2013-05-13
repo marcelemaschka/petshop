@@ -3,7 +3,7 @@ entityName: Marca
 entityNamePlural: Marcas
 description: Cadastro de Marcas
 name: marcas
-readMenu: Marcas//Visualizar
-createMenu: Marcas//Cadastrar
+readMenu: Visualizar//Marcas
+createMenu: Cadastrar//Marcas
 fields: 
   - nome
