@@ -4,6 +4,6 @@ type: reference
 options: 
   width: "2"
   showLabel: true
-  module: tipo_produtos
+  module: tipo_de_produtos
   display: descricao
   group: Dados Principais
