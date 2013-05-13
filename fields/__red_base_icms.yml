@@ -1,0 +1,7 @@
+label: "% Red.Base ICMS"
+name: __red_base_icms
+type: number
+options: 
+  width: 3
+  showLabel: true
+  group: Impostos e Valores

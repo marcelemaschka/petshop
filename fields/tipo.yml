@@ -1,0 +1,9 @@
+label: Tipo
+name: tipo
+type: reference
+options: 
+  width: "2"
+  showLabel: true
+  module: tipo_produtos
+  display: descricao
+  group: Dados Principais

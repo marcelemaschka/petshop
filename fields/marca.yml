@@ -1,0 +1,9 @@
+label: Marca
+name: marca
+type: reference
+options: 
+  width: 3
+  showLabel: true
+  module: marcas
+  display: nome
+  group: Dados Principais

@@ -1,0 +1,7 @@
+label: M OBRA
+name: m_obra
+type: number
+options: 
+  width: 3
+  showLabel: true
+  group: Impostos e Valores

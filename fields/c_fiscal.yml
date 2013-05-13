@@ -1,0 +1,7 @@
+label: C FISCAL
+name: c_fiscal
+type: number
+options: 
+  width: 3
+  showLabel: true
+  group: Impostos e Valores

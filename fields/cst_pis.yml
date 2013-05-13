@@ -1,0 +1,7 @@
+label: CST PIS
+name: cst_pis
+type: number
+options: 
+  width: 3
+  showLabel: true
+  group: Impostos e Valores

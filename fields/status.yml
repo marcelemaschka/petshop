@@ -1,0 +1,8 @@
+label: Status
+name: status
+type: enum
+options: 
+  width: 3
+  showLabel: true
+  values: "Ativo\nInativo"
+  group: Dados Principais

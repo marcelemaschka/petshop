@@ -1,0 +1,11 @@
+label: Unidade
+name: unidade
+type: string
+options: 
+  minlength: 2
+  maxlength: 50
+  widget: 
+    id: textinput
+  width: 3
+  showLabel: true
+  group: Dados Principais

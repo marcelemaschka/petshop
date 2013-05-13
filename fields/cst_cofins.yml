@@ -1,0 +1,7 @@
+label: CST COFINS
+name: cst_cofins
+type: number
+options: 
+  width: 3
+  showLabel: true
+  group: Impostos e Valores

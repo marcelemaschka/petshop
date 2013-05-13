@@ -1,0 +1,7 @@
+label: Valor da Venda
+name: valor_da_venda
+type: number
+options: 
+  width: 3
+  showLabel: true
+  group: Impostos e Valores

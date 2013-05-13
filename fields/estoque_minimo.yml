@@ -1,0 +1,7 @@
+label: Estoque Mínimo
+name: estoque_minimo
+type: number
+options: 
+  width: 3
+  showLabel: true
+  group: Dados Principais

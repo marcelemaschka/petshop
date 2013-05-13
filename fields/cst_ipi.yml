@@ -1,0 +1,7 @@
+label: CST IPI
+name: cst_ipi
+type: number
+options: 
+  width: 3
+  showLabel: true
+  group: Impostos e Valores

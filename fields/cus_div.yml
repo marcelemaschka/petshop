@@ -1,0 +1,7 @@
+label: CUS DIV
+name: cus_div
+type: number
+options: 
+  width: 3
+  showLabel: true
+  group: Impostos e Valores

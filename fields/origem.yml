@@ -1,0 +1,8 @@
+label: ORIGEM
+name: origem
+type: enum
+options: 
+  width: 3
+  showLabel: true
+  values: "Nacional: 0\nEstrangeira (Importação Direta): 1\nEstrangeira (Adquirida no Mercado Interno): 2"
+  group: Impostos e Valores

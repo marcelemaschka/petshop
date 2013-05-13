@@ -1,0 +1,7 @@
+label: "% Lucro"
+name: __lucro
+type: number
+options: 
+  width: 3
+  showLabel: true
+  group: Impostos e Valores

@@ -1,0 +1,32 @@
+type: "crud-v1"
+entityName: Produto
+entityNamePlural: Produtos
+description: Cadastro de Produtos
+name: produtos
+readMenu: Visualizar//Produtos
+createMenu: Cadastrar//Produtos
+fields: 
+  - tipo
+  - descricao
+  - status
+  - unidade
+  - marca
+  - estoque_minimo
+  - estoque_maximo
+  - custo
+  - __icms
+  - __ipi
+  - __red_base_icms
+  - sit_tributaria
+  - cst_csosn
+  - cst_ipi
+  - cst_cofins
+  - cst_pis
+  - c_fiscal
+  - cus_div
+  - m_obra
+  - ncm
+  - mva
+  - origem
+  - __lucro
+  - valor_da_venda
