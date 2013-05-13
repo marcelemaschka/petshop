@@ -1,5 +1,5 @@
-label: CST COFINS
-name: cst_cofins
+label: "% Desc Máx"
+name: __desc_max
 type: number
 options: 
   width: "1"

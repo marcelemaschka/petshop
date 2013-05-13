@@ -2,6 +2,6 @@ label: "% ICMS"
 name: __icms
 type: number
 options: 
-  width: 3
+  width: "1"
   showLabel: true
   group: Impostos e Valores
