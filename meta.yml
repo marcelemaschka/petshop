@@ -3,7 +3,7 @@ entityName: Tipo de Produto
 entityNamePlural: Tipo de Produtos
 description: Tipo de Produtos
 name: tipo_de_produtos
-readMenu: Tipo de Produtos//Visualizar
-createMenu: Tipo de Produtos//Cadastrar
+readMenu: Visualizar//Tipo de Produtos
+createMenu: Cadastrar//Tipo de Produtos
 fields: 
   - descricao
