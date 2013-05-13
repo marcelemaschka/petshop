@@ -1,0 +1,7 @@
+label: Peso Líquido
+name: peso_liquido
+type: number
+options: 
+  width: 3
+  showLabel: true
+  group: Dados Principais

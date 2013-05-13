@@ -10,9 +10,11 @@ fields:
   - descricao
   - status
   - marca
-  - unidade
-  - estoque_minimo
-  - estoque_maximo
+  - unid
+  - est_min
+  - est_max
+  - peso_bruto
+  - peso_liquido
   - custo
   - __icms
   - __ipi

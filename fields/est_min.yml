@@ -1,0 +1,7 @@
+label: Est Mín
+name: est_min
+type: number
+options: 
+  width: "2"
+  showLabel: true
+  group: Dados Principais

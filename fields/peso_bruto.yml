@@ -1,7 +1,7 @@
-label: Estoque Mínimo
-name: estoque_minimo
+label: Peso Bruto
+name: peso_bruto
 type: number
 options: 
-  width: "2"
+  width: 3
   showLabel: true
   group: Dados Principais

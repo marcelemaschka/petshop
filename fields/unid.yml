@@ -1,11 +1,11 @@
-label: Estoque Máximo
-name: estoque_maximo
+label: Unid
+name: unid
 type: string
 options: 
-  width: "2"
   minlength: 2
   maxlength: 50
   widget: 
     id: textinput
+  width: "1"
   showLabel: true
   group: Dados Principais
