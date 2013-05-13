@@ -2,6 +2,6 @@ label: Peso Bruto
 name: peso_bruto
 type: number
 options: 
-  width: "1.5"
+  width: "2"
   showLabel: true
   group: Dados Principais
