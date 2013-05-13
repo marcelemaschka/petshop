@@ -2,6 +2,6 @@ label: Custo
 name: custo
 type: number
 options: 
-  width: "1,5"
+  width: "2"
   showLabel: true
   group: Impostos e Valores

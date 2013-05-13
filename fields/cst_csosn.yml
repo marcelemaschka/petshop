@@ -2,6 +2,6 @@ label: CST/CSOSN
 name: cst_csosn
 type: number
 options: 
-  width: "1.5"
+  width: "2"
   showLabel: true
   group: Impostos e Valores
