@@ -2,7 +2,7 @@ label: Marca
 name: marca
 type: reference
 options: 
-  width: 3
+  width: "4"
   showLabel: true
   module: marcas
   display: nome

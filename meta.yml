@@ -9,8 +9,8 @@ fields:
   - tipo
   - descricao
   - status
-  - unidade
   - marca
+  - unidade
   - estoque_minimo
   - estoque_maximo
   - custo

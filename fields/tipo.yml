@@ -2,7 +2,7 @@ label: Tipo
 name: tipo
 type: reference
 options: 
-  width: "3"
+  width: "4"
   showLabel: true
   module: tipo_de_produtos
   display: descricao
