@@ -6,6 +6,6 @@ options:
   maxlength: 50
   widget: 
     id: textinput
-  width: 3
+  width: "1"
   showLabel: true
   group: Dados Principais

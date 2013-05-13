@@ -2,7 +2,7 @@ label: Descrição
 name: descricao
 type: string
 options: 
-  width: 3
+  width: "6"
   minlength: 2
   maxlength: 50
   widget: 
