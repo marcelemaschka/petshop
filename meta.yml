@@ -18,5 +18,6 @@ fields:
   - ult_consulta
   - data_da_vacina
   - vacinas_vermifugos
+  - prox_vacina_vermifugo
   - data
   - peso

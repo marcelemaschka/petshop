@@ -1,0 +1,9 @@
+label: Prox Vacina/Vermífugo
+name: prox_vacina_vermifugo
+type: date
+options: 
+  widget: 
+    id: datepicker
+  width: 3
+  showLabel: true
+  group: Vacinas e Vermífugos
