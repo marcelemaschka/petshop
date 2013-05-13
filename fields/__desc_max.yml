@@ -2,6 +2,6 @@ label: "% Desc Máx"
 name: __desc_max
 type: number
 options: 
-  width: "1"
+  width: "1.5"
   showLabel: true
   group: Impostos e Valores

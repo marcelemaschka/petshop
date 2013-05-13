@@ -2,6 +2,6 @@ label: "% Red.Base ICMS"
 name: __red_base_icms
 type: number
 options: 
-  width: "1"
+  width: "1.5"
   showLabel: true
   group: Impostos e Valores

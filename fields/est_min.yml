@@ -2,6 +2,6 @@ label: Est Mín
 name: est_min
 type: number
 options: 
-  width: "2"
+  width: "1"
   showLabel: true
   group: Dados Principais

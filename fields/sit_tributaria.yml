@@ -2,7 +2,7 @@ label: Sit.Tributária
 name: sit_tributaria
 type: number
 options: 
-  width: "1"
+  width: "1.5"
   showLabel: true
   min: "3"
   max: "3"

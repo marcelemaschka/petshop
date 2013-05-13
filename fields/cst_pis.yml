@@ -2,6 +2,6 @@ label: CST PIS
 name: cst_pis
 type: number
 options: 
-  width: "1"
+  width: "1.5"
   showLabel: true
   group: Impostos e Valores

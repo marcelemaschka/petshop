@@ -2,6 +2,6 @@ label: C FISCAL
 name: c_fiscal
 type: number
 options: 
-  width: "1"
+  width: "1.5"
   showLabel: true
   group: Impostos e Valores
