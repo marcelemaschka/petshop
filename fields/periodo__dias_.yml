@@ -1,0 +1,6 @@
+label: Período (dias)
+name: periodo__dias_
+type: number
+options: 
+  width: "1"
+  showLabel: true

@@ -1,0 +1,11 @@
+type: "crud-v1"
+entityName: Tabela de Vacina
+entityNamePlural: Tabela de Vacinas
+description: Cadastro de Tabela de Vacinas
+name: tabela_de_vacinas
+readMenu: Visualizar//Tabela de Vacinas
+createMenu: Cadastrar//Tabela de Vacinas
+fields: 
+  - descricao
+  - n__de_doses
+  - periodo__dias_

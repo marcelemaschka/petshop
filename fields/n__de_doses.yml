@@ -1,0 +1,6 @@
+label: N° de Doses
+name: n__de_doses
+type: number
+options: 
+  width: "1"
+  showLabel: true
