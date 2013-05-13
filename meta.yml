@@ -33,3 +33,4 @@ fields:
   - __desc_max
   - __lucro
   - valor_da_venda
+  - observacao
