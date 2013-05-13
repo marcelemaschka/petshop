@@ -1,0 +1,9 @@
+type: "crud-v1"
+entityName: Marca
+entityNamePlural: Marcas
+description: Cadastro de Marcas
+name: marcas
+readMenu: Marcas//Visualizar
+createMenu: Marcas//Cadastrar
+fields: 
+  - nome
