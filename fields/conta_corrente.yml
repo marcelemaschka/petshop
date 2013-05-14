@@ -1,0 +1,7 @@
+label: Conta Corrente
+name: conta_corrente
+type: number
+options: 
+  width: 3
+  showLabel: true
+  group: Informações Bancárias

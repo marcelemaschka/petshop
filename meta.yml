@@ -26,3 +26,7 @@ fields:
   - outro
   - e_mail
   - site
+  - banco
+  - agencia
+  - conta_corrente
+  - observacoes
