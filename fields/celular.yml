@@ -2,7 +2,7 @@ label: Celular
 name: celular
 type: string
 options: 
-  width: 3
+  width: "2"
   minlength: 2
   maxlength: 50
   widget: 
