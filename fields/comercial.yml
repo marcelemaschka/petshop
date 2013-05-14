@@ -10,3 +10,4 @@ options:
   showLabel: true
   mask: "(99) 9999-9999"
   group: Contato
+  optional: true
