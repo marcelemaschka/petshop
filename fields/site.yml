@@ -2,7 +2,7 @@ label: Site
 name: site
 type: string
 options: 
-  width: 3
+  width: "4"
   minlength: 2
   maxlength: 50
   widget: 

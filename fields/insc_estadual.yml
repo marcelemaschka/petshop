@@ -2,5 +2,5 @@ label: Insc Estadual
 name: insc_estadual
 type: number
 options: 
-  width: "2"
+  width: "3"
   showLabel: true
