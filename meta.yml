@@ -3,8 +3,8 @@ entityName: Fornecedor Pet
 entityNamePlural: Fornecedores Pet
 description: Cadastro de Fornecedores Pet
 name: fornecedores_pet
-readMenu: Fornecedores//Visualizar
-createMenu: Fornecedores//Cadastrar
+readMenu: Visualizar//Fornecedores
+createMenu: Cadastrar//Fornecedores
 fields: 
   - razao_social
   - nome_fantasia
