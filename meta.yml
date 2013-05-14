@@ -11,3 +11,4 @@ fields:
   - medico
   - prestador
   - servico
+  - observacoes

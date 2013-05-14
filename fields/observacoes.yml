@@ -1,0 +1,10 @@
+label: Observações
+name: observacoes
+type: string
+options: 
+  width: "12"
+  minlength: 2
+  maxlength: "200"
+  widget: 
+    id: textarea
+  showLabel: true
