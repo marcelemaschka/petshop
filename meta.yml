@@ -18,6 +18,8 @@ fields:
   - estado
   - pais
   - cep
-  - fone
+  - residencial
+  - comercial
   - celular
+  - outro
   - e_mail

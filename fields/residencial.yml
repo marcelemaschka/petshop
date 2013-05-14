@@ -1,12 +1,12 @@
-label: Fone
-name: fone
+label: Residencial
+name: residencial
 type: string
 options: 
   minlength: 2
   maxlength: 50
   widget: 
     id: textinput
-  width: 3
+  width: "2"
   showLabel: true
   mask: "(99) 9999-9999"
   group: Contato

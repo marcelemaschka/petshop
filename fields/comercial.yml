@@ -1,12 +1,12 @@
-label: Celular
-name: celular
+label: Comercial
+name: comercial
 type: string
 options: 
-  width: 3
   minlength: 2
   maxlength: 50
   widget: 
     id: textinput
+  width: 3
   showLabel: true
   mask: "(99) 9999-9999"
   group: Contato

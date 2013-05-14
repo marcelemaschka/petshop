@@ -1,5 +1,5 @@
-label: Celular
-name: celular
+label: Outro
+name: outro
 type: string
 options: 
   width: 3
@@ -9,4 +9,3 @@ options:
     id: textinput
   showLabel: true
   mask: "(99) 9999-9999"
-  group: Contato
