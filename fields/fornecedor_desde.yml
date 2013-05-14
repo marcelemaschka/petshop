@@ -1,0 +1,8 @@
+label: Fornecedor desde
+name: fornecedor_desde
+type: date
+options: 
+  widget: 
+    id: datepicker
+  width: 3
+  showLabel: true

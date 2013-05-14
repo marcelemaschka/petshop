@@ -1,0 +1,8 @@
+label: País
+name: pais
+type: enum
+options: 
+  width: 3
+  showLabel: true
+  group: Endereço
+  values: "Brasil: 1058\nEspanha: 2453\nEstados Unidos: 2496\nArgentina: 0639\nFrança: 2755\nChina: 1600\nChile: 1589\nItália: 3867\nCoréia: 1902\nParaguai: 5860\nPortugal: 6076\nUruguai: 8451\nReino Unido: 6289\nJapão: 3999"

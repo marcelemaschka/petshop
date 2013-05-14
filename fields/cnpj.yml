@@ -1,0 +1,6 @@
+label: CNPJ
+name: cnpj
+type: number
+options: 
+  width: 3
+  showLabel: true

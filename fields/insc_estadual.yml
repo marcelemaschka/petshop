@@ -1,0 +1,6 @@
+label: Insc Estadual
+name: insc_estadual
+type: number
+options: 
+  width: "2"
+  showLabel: true

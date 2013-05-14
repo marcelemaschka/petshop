@@ -1,0 +1,10 @@
+label: Nome Fantasia
+name: nome_fantasia
+type: string
+options: 
+  width: 3
+  minlength: 2
+  maxlength: 50
+  widget: 
+    id: textinput
+  showLabel: true

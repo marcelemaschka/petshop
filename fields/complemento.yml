@@ -1,0 +1,10 @@
+label: Complemento
+name: complemento
+type: string
+options: 
+  width: "3"
+  widget: 
+    id: textinput
+  showLabel: true
+  group: Endereço
+  optional: true

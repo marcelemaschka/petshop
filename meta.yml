@@ -1,0 +1,28 @@
+type: "crud-v1"
+entityName: Fornecedor Pet
+entityNamePlural: Fornecedores Pet
+description: Cadastro de Fornecedores Pet
+name: fornecedores_pet
+readMenu: Fornecedores//Visualizar
+createMenu: Fornecedores//Cadastrar
+fields: 
+  - razao_social
+  - nome_fantasia
+  - cnpj
+  - insc_estadual
+  - fornecedor_desde
+  - logadouro
+  - numero
+  - complemento
+  - bairro
+  - cidade
+  - estado
+  - pais
+  - cep
+  - vendedor
+  - fone
+  - fax
+  - celular
+  - outro
+  - e_mail
+  - site

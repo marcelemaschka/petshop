@@ -1,0 +1,7 @@
+label: Número
+name: numero
+type: number
+options: 
+  width: "1"
+  showLabel: true
+  group: Endereço
