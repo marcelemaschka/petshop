@@ -3,6 +3,6 @@ name: data_da_consulta
 type: date
 options: 
   widget: 
-    id: datepicker
+    id: datetimepicker
   width: 3
   showLabel: true
