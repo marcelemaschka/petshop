@@ -6,3 +6,4 @@ options:
   showLabel: true
   module: pets
   display: nome
+  extraInfo: Dono

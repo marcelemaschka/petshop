@@ -1,10 +1,9 @@
 label: Médico
 name: medico
-type: string
+type: reference
 options: 
   width: 3
-  minlength: 2
-  maxlength: 50
-  widget: 
-    id: textinput
   showLabel: true
+  module: medicos_veterinario
+  display: nome
+  optional: true

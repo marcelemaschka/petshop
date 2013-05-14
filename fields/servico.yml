@@ -1,10 +1,8 @@
 label: Serviço
 name: servico
-type: string
+type: reference
 options: 
   width: 3
-  minlength: 2
-  maxlength: 50
-  widget: 
-    id: textinput
   showLabel: true
+  module: servicos_pet
+  display: servico
