@@ -1,0 +1,6 @@
+label: Valor do Serviço
+name: valor_do_servico
+type: number
+options: 
+  width: "2"
+  showLabel: true

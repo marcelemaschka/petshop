@@ -1,0 +1,12 @@
+type: "crud-v1"
+entityName: Serviço Pet
+entityNamePlural: Serviços Pet
+description: Cadastro de Serviços Pet
+name: servicos_pet
+readMenu: Visualizar//Serviços Pet
+createMenu: Cadastrar//Serviços Pet
+fields: 
+  - servico
+  - valor_do_servico
+  - comissao
+  - __desc_max

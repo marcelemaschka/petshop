@@ -1,0 +1,6 @@
+label: Comissão
+name: comissao
+type: number
+options: 
+  width: "2"
+  showLabel: true

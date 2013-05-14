@@ -1,0 +1,6 @@
+label: "% Desc Máx"
+name: __desc_max
+type: number
+options: 
+  width: "2"
+  showLabel: true
