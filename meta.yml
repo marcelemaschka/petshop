@@ -1,0 +1,12 @@
+type: "crud-v1"
+entityName: Médico Veterinário
+entityNamePlural: Médicos Veterinário
+description: Cadastro de Médicos Veterinário
+name: medicos_veterinario
+readMenu: Visualizar//Médicos Veterinário
+createMenu: Cadastrar//Médicos Veterinário
+fields: 
+  - crmv
+  - nome
+  - fone
+  - celular

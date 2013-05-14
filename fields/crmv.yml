@@ -1,0 +1,6 @@
+label: CRMV
+name: crmv
+type: number
+options: 
+  width: "2"
+  showLabel: true
