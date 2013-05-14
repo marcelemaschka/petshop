@@ -5,5 +5,5 @@ options:
   width: 3
   showLabel: true
   module: pets
-  display: nome
+  display: nome_do_animal
   extraInfo: Dono
